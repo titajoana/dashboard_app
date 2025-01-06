@@ -1,2 +1,2 @@
 # dashboard_app
-The real-time dashboard app displays live web data visually, offering immediate insights. Users access dynamic information through a customizable interface for quick decision-making based on the latest updates.
+The dashboard application provides real-time visualizations sourced from web data, offering users immediate insights into dynamically changing information. Through a user-friendly interface, this tool presents live data updates on a customizable dashboard, enabling swift and informed decision-making based on the most up-to-date information available.
